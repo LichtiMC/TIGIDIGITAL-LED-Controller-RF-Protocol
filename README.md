@@ -9,7 +9,7 @@ The excel file has emerged while reverse engineering the protocol with a Logic A
 All of this wouldn't have been possible (for me) without the excellent work of Henryk Plötz (https://github.com/henryk/openmili).
 
 
-The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) 2015 henryk
 
