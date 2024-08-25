@@ -11,7 +11,7 @@ All of this wouldn't have been possible (for me) without the excellent work of H
 
 # The MIT License (MIT)
 
-Copyright (c) 2015 henryk
+Copyright (c) 2015 henryk, Copyright (c) 2015 LichtiMC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
